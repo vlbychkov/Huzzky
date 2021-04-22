@@ -1,5 +1,5 @@
 ### Hi there 👋, My name is Vladislav Bychkov
-[![Gmail Badge](https://img.shields.io/badge/-vladislav.bychkov.vb@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:vladislav.bychkov.vb@gmail.com)](mailto:vladislav.bychkov.vb@gmail.com) [![Github Badge](https://img.shields.io/badge/-Huzkky-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Huzkky/)](https://www.github.com/Huzkky/)
+[![Gmail Badge](https://img.shields.io/badge/-vladislav.bychkov01@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:vladislav.bychkov01@gmail.com)](mailto:vladislav.bychkov01@gmail.com) [![Github Badge](https://img.shields.io/badge/-Huzkky-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Huzkky/)](https://www.github.com/Huzkky/)
 
 https://codepen.io/huzzky
 #### I am Junior Frontend-Developer
