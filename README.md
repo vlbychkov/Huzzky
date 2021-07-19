@@ -4,7 +4,7 @@
 https://codepen.io/huzzky
 #### I am Junior Frontend-Developer
 
-Me 19 y.o. :runner:
+Me 20 y.o. :runner:
 
 I'm live in Russia, Moscow :ru:
 
